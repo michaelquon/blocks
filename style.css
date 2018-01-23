@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(184, 184, 184);
+    width: 700px;
+}
+
+.container{
+    background-color: grey;
+    border: 5px solid black;
+    width: 590px;
+    height: 675px;
+}
+.top-box{
+    background-color: red;
+    border: 5px solid black;
+    width: 263px;
+    height: 140px;
+    margin: 10px;
+    display: inline-block;
+}
+.blue-navbar{
+    background-color: blue;
+    width: 560;
+    border: 5px solid black;
+    height: 140px;
+    margin: 10px;
+}
+.yellow-minibox{
+    background-color: yellow;
+    width: 164px;
+    height: 120px;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 10px;
+}
+.green-navbar{
+    background-color: green;
+    width: 560px;
+    border: 5px solid black;
+    height: 140px;
+    margin: 10px;
+}
+.purple-box{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+    border: 5px solid black;
+    display: inline-block;
+}
+.green-box{
+    background-color: green;
+    width: 251px;
+    height: 120px;
+    margin: 10px;
+    display: inline-block;
+}
